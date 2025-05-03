@@ -27,12 +27,6 @@ This is a great way to bridge the gap between basic syntax and visual programmin
 - No prior turtle experience required — the notebook walks you through it
 - A creative mind ready to experiment!
 
-🎥 New to Python? Watch this quick primer:  
-[Learn Python in Less than 10 Minutes (YouTube)](https://www.youtube.com/watch?v=fWjsdhR3z3c)
-
-📘 Want a full course? Try this interactive one:  
-[Python for Everybody (Coursera Specialization)](https://www.coursera.org/specializations/python)
-
 ## 💡 How to Use
 
 1. Open `Spiral.ipynb` in Jupyter Notebook.
@@ -45,16 +39,6 @@ This is a great way to bridge the gap between basic syntax and visual programmin
 
 Experiment with patterns and see how math and art collide!
 
-## 📁 Part of the Turtle Series
-
-This project is part of a series of Python visual learning notebooks:
-
-- 🐍 Snake Game
-- 🏓 Pong Game
-- ❄️ Snowflake Fractal Generator
-
-Each one is designed to make learning Python more hands-on, visual, and fun.
-
 ---
 
-Unleash your inner artist—one loop at a time! 🎨🐢
+Unleash your inner artist—one loop at a time, haapy coding! 🎨🐢
