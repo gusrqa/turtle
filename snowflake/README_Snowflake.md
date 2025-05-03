@@ -27,12 +27,6 @@ This project is perfect for learners who want to explore how Python can be used 
 - No prior experience with GUIs required — everything is explained
 - Willing to experiment with angles, sliders, and recursion depth
 
-🎥 New to Python? Start here:  
-[Learn Python in Less than 10 Minutes (YouTube)](https://www.youtube.com/watch?v=fWjsdhR3z3c)
-
-📘 Want a full course? Try:  
-[Python for Everybody (Coursera Specialization)](https://www.coursera.org/specializations/python)
-
 ## 🖱️ How to Use
 
 1. Open `Snowflake.ipynb` in Jupyter Notebook.
@@ -43,16 +37,6 @@ This project is perfect for learners who want to explore how Python can be used 
    - Snowflake color
 4. Click “Preview” to draw the snowflake in real time!
 
-## 📁 Part of the Turtle Series
-
-This is one of four learning notebooks designed for hands-on Python practice:
-
-- 🐍 Snake Game
-- 🏓 Pong Game
-- 🌀 Spiral Art Drawer
-
-All projects are beginner-friendly and crafted to help you move toward intermediate Python skills in a fun and visual way.
-
 ---
 
-Let it snow (with code)! ❄️💻
+Happy coding! ❄️💻
