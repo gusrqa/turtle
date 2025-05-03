@@ -42,16 +42,6 @@ Or follow a more complete course:
 3. Use the `W`/`S` keys for Player A and `Up`/`Down` arrow keys for Player B.
 4. Enjoy the game and explore the code to understand how it all works!
 
-## 📁 Part of the Turtle Series
-
-This project is part of a beginner-to-intermediate Turtle game series which also includes:
-
-- 🎮 Snake Game
-- ❄️ Fractal Snowflake Generator
-- 🌀 Spiral Drawer
-
-Each notebook is crafted with clear comments to teach Python through hands-on visuals.
-
 ---
 
 Happy coding! 🎉
