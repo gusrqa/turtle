@@ -28,12 +28,6 @@ This notebook is well-documented and beginner-friendly, making it ideal for lear
 - Comfort running notebooks or Python scripts
 - Curiosity and willingness to experiment with code!
 
-🎥 If you're new to Python, start here:  
-[Learn Python in Less than 10 Minutes (YouTube)](https://www.youtube.com/watch?v=fWjsdhR3z3c)
-
-📘 Or follow a complete course:  
-[Python for Everybody (Coursera Specialization)](https://www.coursera.org/specializations/python)
-
 ## 💻 How to Play
 
 1. Open the `Snake.ipynb` notebook in Jupyter.
@@ -41,16 +35,6 @@ This notebook is well-documented and beginner-friendly, making it ideal for lear
 3. Use the arrow keys to move the snake around.
 4. Eat food to grow longer. Avoid hitting the walls or your own tail!
 
-## 📁 Part of the Turtle Series
-
-This project is one of several visual learning games using Turtle:
-
-- 🏓 Pong Game
-- ❄️ Fractal Snowflake Generator
-- 🌀 Spiral Drawer
-
-All notebooks are written with clear comments and are designed to help you learn Python through creative coding.
-
 ---
 
-Happy hacking! 💻✨
+Happy coding! 💻✨
